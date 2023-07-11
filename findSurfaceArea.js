@@ -1,5 +1,6 @@
 // let's try with finding all the coordinates of the surface area
 
+// SOLUTION TO https://adventofcode.com/2022/day/18
 function calculateSurfaceArea(coordinates) {
   surfaceArea = 0;
 
