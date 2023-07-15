@@ -1,6 +1,6 @@
 ----
 
-
+https://github.com/Harsh8055/assignment/assets/91266702/326d5aba-5bd2-4eb6-82a2-70794112f40d
 
 TO run the go server, 
 
@@ -8,7 +8,7 @@ first do
 ```
  make postgres
 ```
-then create a db gobackend, by just running 
+then create a db gobackend, by running 
 
 ```
 make createdb
@@ -17,7 +17,7 @@ make createdb
 then do migration, 
 to do so run 
 ```
-migrateup
+make migrateup
 ```
 
 and we need to run 
@@ -31,4 +31,6 @@ here's and example http request
 ```
 http://localhost:8080/spots?latitude=71.3189&longitude=-7.7562&radius=1000000&shape=circle
 ```
+
+
 
