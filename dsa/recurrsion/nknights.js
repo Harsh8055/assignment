@@ -15,8 +15,7 @@ function main() {
         return 1;
     }
 
-    
-
+  
     if (row == board.length - 1 && col == board.length) {
       return 0;
     }
