@@ -1,12 +1,3 @@
-//
-
-// n -> 3 chars
-
-
-
-// 2 -> a,b,c
-// 3 -> d,e,f
-
 
 function findPossibleCombinations(processed, unprocessed, ans) {
 
